@@ -1,4 +1,4 @@
-# shopify-custom-storefront-API
+# shopify-custom-storefront-api
 
 *Storefront with the custom API integration.*
 - inventory sync 
